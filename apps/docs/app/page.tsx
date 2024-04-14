@@ -131,6 +131,7 @@ export default function Page(): JSX.Element {
           </div>
         </div>
       </div>
+      <h1>Hello, turbo!</h1>
 
       <div className={styles.grid}>
         {LINKS.map(({ title, href, description }) => (
