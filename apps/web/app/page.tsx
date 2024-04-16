@@ -109,8 +109,6 @@ export default function Page(): JSX.Element {
               />
             </div>
           </div>
-          <Gradient className={styles.backgroundGradient} conic />
-          <div className={styles.turborepoWordmarkContainer}></div>
         </div>
       </div>
 
